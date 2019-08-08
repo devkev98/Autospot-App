@@ -7,6 +7,12 @@ import icon2 from './bottom-profile.svg';
 import icon3 from './bottom-save.svg';
 import icon4 from './bottom-messages.svg';
 import icon5 from './bottom-settings.svg';
+//icons white
+import white1 from './bottom-match-white.svg';
+import white2 from './bottom-profile-white.svg';
+import white3 from './bottom-save-white.svg';
+import white4 from './bottom-messages-white.svg';
+import white5 from './bottom-settings-white.svg';
 
 function BottomNav () {
   return (
