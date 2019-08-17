@@ -16,3 +16,10 @@
   font-weight: 600;
   font-size: 25px;
 }
+.back-btn {
+  font-size:33px;
+  float:left;
+  cursor:pointer;
+  margin:15px;
+  
+}

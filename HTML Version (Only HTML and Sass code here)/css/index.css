@@ -53,11 +53,6 @@ table {
   border-collapse: collapse;
   border-spacing: 0;
 }
-
-::selection {
-  background-color: rgba(0, 0, 0, 0);
-  color: rgba(0, 0, 0, 0);
-}
 a {
   color:inherit;
   
@@ -93,3 +88,10 @@ main {
   margin-top:62px;
 }
 /*# sourceMappingURL=index.css.map */
+/*.container {
+  width:96%;
+  margin:auto;
+  height:1000px;
+  margin-top:62px;
+  background-color:lightblue;
+}*/
